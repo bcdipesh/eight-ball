@@ -1,0 +1,9 @@
+.EightBall-ball {
+  border-radius: 50%;
+  text-align: center;
+  padding: 150px;
+}
+
+.EightBall-message {
+  color: #fff;
+}
